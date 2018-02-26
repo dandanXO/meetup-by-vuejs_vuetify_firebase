@@ -1,6 +1,7 @@
 # meetup-by-vue
 
-> A Vue.js project
+## Introduction
+簡單的聚會系統，可以登入登出並決定舉辦或加入聚會等。
 
 ## Build Setup
 
